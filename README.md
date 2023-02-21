@@ -1,6 +1,20 @@
-# flutter_sqflite
+# Flutter Tutorial - Database Storage Using Sqlite
 
-A new Flutter project.
+Persist data with Flutter's [Sqflite](https://pub.dev/packages/sqflite). Database locally on your Android or iOS device by using Raw SQL statements.
+
+## Development Setup
+
+Clone the repository and run the following commands:
+
+```sh
+flutter pub get
+flutter run
+```
+
+## Screen Shots
+
+
+
 
 ## Getting Started
 
