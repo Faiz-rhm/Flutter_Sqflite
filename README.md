@@ -16,7 +16,7 @@ flutter run
 |   Add Note     |        Note List              |
 |----------------|-------------------------------|
 |   ![screenshot-1676968671897](https://user-images.githubusercontent.com/14290499/220293753-9def7529-4545-4a47-8db5-4108f81b4714.png)
-             |     ![screenshot-1676968748539](https://user-images.githubusercontent.com/14290499/220293788-f3c31e7b-3f3c-4738-ab36-7a4b800649f1.png)
+                 ![screenshot-1676968748539](https://user-images.githubusercontent.com/14290499/220293788-f3c31e7b-3f3c-4738-ab36-7a4b800649f1.png)
                           |
 
 
